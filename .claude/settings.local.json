@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install next@latest)",
+      "Bash(npm run build)"
+    ]
+  }
+}
